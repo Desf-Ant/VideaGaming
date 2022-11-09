@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}|Default">
+  <MonoDevelop.Ide.ItemProperties.VidyaGaming PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.VidyaGaming.BL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VidyaGaming.BL.Contracts FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VidyaGaming.DAL FirstBuild="True" />
+</Properties>
