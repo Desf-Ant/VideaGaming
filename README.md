@@ -1,2 +1,2 @@
-# VideaGaming
+# VidyaGaming
 Projet architecture distribuée
