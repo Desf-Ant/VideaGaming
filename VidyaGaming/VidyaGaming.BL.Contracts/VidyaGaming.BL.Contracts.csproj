@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VidyaGaming.DAL\VidyaGaming.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

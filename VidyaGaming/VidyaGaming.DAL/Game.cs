@@ -12,9 +12,14 @@ namespace VidyaGaming.DAL
         public string Name { get; set; }
         public string Description { get; set; }
         public string Image { get; set; }
-        public float Note { get; set; } 
-        public string Genre { get; set; }       
-        public List<String> Commentaires { get; set; }
+        public List<float> ListGrades { get; set; } 
+        public float AverageGrade { get; set; }  
+        public string Type { get; set; }       
+        public List<String> Comments { get; set; }
+
+        public DateOnly Date { get; set; }
+
+        public string Platform { get; set; }
         public Game() { 
         
         }

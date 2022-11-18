@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VidyaGaming.BL.Contracts\VidyaGaming.BL.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>

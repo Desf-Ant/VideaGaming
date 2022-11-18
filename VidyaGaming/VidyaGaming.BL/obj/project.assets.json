@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "VidyaGaming.BL.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VidyaGaming.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VidyaGaming.BL.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VidyaGaming.BL.Contracts.dll": {}
+        }
+      },
+      "VidyaGaming.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VidyaGaming.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VidyaGaming.DAL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VidyaGaming.BL.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../VidyaGaming.BL.Contracts/VidyaGaming.BL.Contracts.csproj",
+      "msbuildProject": "../VidyaGaming.BL.Contracts/VidyaGaming.BL.Contracts.csproj"
+    },
+    "VidyaGaming.DAL/1.0.0": {
+      "type": "project",
+      "path": "../VidyaGaming.DAL/VidyaGaming.DAL.csproj",
+      "msbuildProject": "../VidyaGaming.DAL/VidyaGaming.DAL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "VidyaGaming.BL.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PC d'Adrien\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL.Contracts\\VidyaGaming.BL.Contracts.csproj": {
+              "projectPath": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL.Contracts\\VidyaGaming.BL.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
