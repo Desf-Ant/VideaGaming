@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VidyaGaming.BL.Contracts.props" />
+</Project>
