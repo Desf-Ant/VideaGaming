@@ -1,7 +1,15 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿
+using VidyaGaming.BL.Contracts;
+using VidyaGaming.BL;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// A chaque fois que quelqu'un a besoin d'un IArtistsService, on retourne un FakeArtistsService
+builder.Services.AddScoped<IGameService, FakeGameService>();
+
 
 var app = builder.Build();
 
