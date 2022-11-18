@@ -1,6 +1,6 @@
 ﻿namespace VidyaGaming.BL.Contracts
 {
-    public class Class1
+    public class IGameService 
     {
 
     }
