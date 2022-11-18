@@ -1,6 +1,6 @@
 ﻿namespace VidyaGaming.DAL
 {
-    public class GameContext
+    public class VidyaGamingContext
     {
 
     }
