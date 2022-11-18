@@ -1,15 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1703.8
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming", "VidyaGaming\VidyaGaming.csproj", "{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VidyaGaming", "VidyaGaming\VidyaGaming.csproj", "{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming.DAL", "VidyaGaming.DAL\VidyaGaming.DAL.csproj", "{3D77E647-AAC6-4CDD-8C35-36C4114B63BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming.BL", "VidyaGaming.BL\VidyaGaming.BL.csproj", "{5C511F4C-D70B-4207-91AF-C1203FD750FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming.BL", "VidyaGaming.BL\VidyaGaming.BL.csproj", "{579752F8-3CF7-4F82-BC81-6145870DC64B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming.BL.Contracts", "VidyaGaming.BL.Contracts\VidyaGaming.BL.Contracts.csproj", "{ECB09B9B-73AE-4399-8AF3-DB5AD5FA2085}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidyaGaming.DAL", "VidyaGaming.DAL\VidyaGaming.DAL.csproj", "{40ABFA77-E0BD-4688-9802-E5D21253AEAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +19,14 @@ Global
 		{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F370175-EF18-49CF-9AF4-A8ADAB1EE8C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D77E647-AAC6-4CDD-8C35-36C4114B63BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D77E647-AAC6-4CDD-8C35-36C4114B63BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D77E647-AAC6-4CDD-8C35-36C4114B63BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D77E647-AAC6-4CDD-8C35-36C4114B63BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{579752F8-3CF7-4F82-BC81-6145870DC64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{579752F8-3CF7-4F82-BC81-6145870DC64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{579752F8-3CF7-4F82-BC81-6145870DC64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{579752F8-3CF7-4F82-BC81-6145870DC64B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ECB09B9B-73AE-4399-8AF3-DB5AD5FA2085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECB09B9B-73AE-4399-8AF3-DB5AD5FA2085}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECB09B9B-73AE-4399-8AF3-DB5AD5FA2085}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECB09B9B-73AE-4399-8AF3-DB5AD5FA2085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C511F4C-D70B-4207-91AF-C1203FD750FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C511F4C-D70B-4207-91AF-C1203FD750FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C511F4C-D70B-4207-91AF-C1203FD750FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C511F4C-D70B-4207-91AF-C1203FD750FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ABFA77-E0BD-4688-9802-E5D21253AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ABFA77-E0BD-4688-9802-E5D21253AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ABFA77-E0BD-4688-9802-E5D21253AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ABFA77-E0BD-4688-9802-E5D21253AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

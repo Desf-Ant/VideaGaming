@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/antoined/.nuget/packages/": {}
+    "C:\\Users\\PC d'Adrien\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/VidyaGaming.csproj",
+      "projectUniqueName": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming\\VidyaGaming.csproj",
       "projectName": "VidyaGaming",
-      "projectPath": "/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/VidyaGaming.csproj",
-      "packagesPath": "/Users/antoined/.nuget/packages/",
-      "outputPath": "/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/",
+      "projectPath": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming\\VidyaGaming.csproj",
+      "packagesPath": "C:\\Users\\PC d'Adrien\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/antoined/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\PC d'Adrien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
