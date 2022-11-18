@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\appsettings.json
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.staticwebassets.runtime.json
@@ -29,3 +30,31 @@ C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGamin
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\VidyaGaming.pdb
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\VidyaGaming.genruntimeconfig.cache
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\ref\VidyaGaming.dll
+=======
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/appsettings.Development.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/appsettings.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming.staticwebassets.runtime.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming.deps.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming.runtimeconfig.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming.dll
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/bin/Debug/net6.0/VidyaGaming.pdb
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.csproj.AssemblyReference.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.AssemblyInfoInputs.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.AssemblyInfo.cs
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.csproj.CoreCompileInputs.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.MvcApplicationPartsAssemblyInfo.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.RazorAssemblyInfo.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.RazorAssemblyInfo.cs
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/staticwebassets.build.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/staticwebassets.development.json
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/scopedcss/bundle/VidyaGaming.styles.css
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/scopedcss/projectbundle/VidyaGaming.bundle.scp.css
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.dll
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/refint/VidyaGaming.dll
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.pdb
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/VidyaGaming.genruntimeconfig.cache
+/Users/antoined/Projects/VidyaGaming/VidyaGaming/VidyaGaming/obj/Debug/net6.0/ref/VidyaGaming.dll
+>>>>>>> Stashed changes
