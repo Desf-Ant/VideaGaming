@@ -6,7 +6,7 @@ namespace VidyaGaming.BL.Contracts
     {
         public List<Game> GetAll();
 
-        public Game Get(string name);
+        public Game GetByName(string name);
 
         public List<Game> GetByDescendingGrade();
 

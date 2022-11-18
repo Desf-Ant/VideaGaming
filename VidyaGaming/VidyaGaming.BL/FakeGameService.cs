@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using VidyaGaming.BL.Contracts;
 using VidyaGaming.DAL;
 
@@ -14,9 +15,11 @@ namespace VidyaGaming.BL
         {
 
         }
-        public Game Get(string name)
+        public Game GetByName(string name)
         {
-            throw new NotImplementedException();
+            var list = this.GetAll();
+
+            return list.FirstOrDefault(a => a.Name == name);
         }
 
         public List<Game> GetAll()
@@ -58,7 +61,9 @@ namespace VidyaGaming.BL
 
         public List<Game> GetByDate(DateOnly date)
         {
-            throw new NotImplementedException();
+            var list = this.GetAll();
+
+            return list.Where(a => a.Date == date).ToList();
         }
 
         public List<Game> GetByDescendingGrade()
@@ -68,17 +73,23 @@ namespace VidyaGaming.BL
 
         public List<Game> GetByGrade(float grade)
         {
-            throw new NotImplementedException();
+            var list = this.GetAll();
+
+            return list.Where(a => a.AverageGrade == grade).ToList();
         }
 
         public List<Game> GetByPlatform(string platform)
         {
-            throw new NotImplementedException();
+            var list = this.GetAll();
+
+            return list.Where(a => a.Platform == platform).ToList();
         }
 
         public List<Game> GetByType(string type)
         {
-            throw new NotImplementedException();
+            var list = this.GetAll();
+
+            return list.Where(a => a.Type == type).ToList();
         }
     }
 }
