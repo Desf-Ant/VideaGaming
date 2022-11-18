@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using VidyaGaming.Models;
 
 namespace VidyaGaming.Controllers;
-
+//commentaire test
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
