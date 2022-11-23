@@ -40,7 +40,12 @@ namespace VidyaGaming.BL
             throw new NotImplementedException();
         }
 
-        public List<Game> GetByPlatform(string platform)
+		public List<Game> GetByName(string name)
+		{
+			throw new NotImplementedException();
+		}
+
+		public List<Game> GetByPlatform(string platform)
         {
             throw new NotImplementedException();
         }

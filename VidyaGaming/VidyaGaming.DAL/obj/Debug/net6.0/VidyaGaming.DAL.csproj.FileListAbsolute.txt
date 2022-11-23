@@ -1,0 +1,12 @@
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\bin\Debug\net6.0\VidyaGaming.DAL.deps.json
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\bin\Debug\net6.0\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\bin\Debug\net6.0\VidyaGaming.DAL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.csproj.AssemblyReference.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.AssemblyInfoInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.AssemblyInfo.cs
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\refint\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\VidyaGaming.DAL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.DAL\obj\Debug\net6.0\ref\VidyaGaming.DAL.dll

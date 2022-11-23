@@ -15,13 +15,10 @@ namespace VidyaGaming.BL
         {
 
         }
-        public Game GetByName(string name)
+        public List<Game> GetByName(string name)
         {
-            var list = this.GetAll();
-
-            return list.FirstOrDefault(a => a.Name == name);
+            return this.GetAll().Where(a => a.Name.Contains( name)).ToList();
         }
-
         public List<Game> GetAll()
         {
             return new List<Game>() 

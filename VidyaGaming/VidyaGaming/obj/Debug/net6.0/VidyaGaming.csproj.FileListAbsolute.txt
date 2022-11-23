@@ -29,3 +29,10 @@ C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGamin
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\VidyaGaming.pdb
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\VidyaGaming.genruntimeconfig.cache
 C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\ref\VidyaGaming.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.BL.Contracts.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.BL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.BL.Contracts.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.BL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\bin\Debug\net6.0\VidyaGaming.DAL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming\obj\Debug\net6.0\VidyaGaming.csproj.CopyComplete

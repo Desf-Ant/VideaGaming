@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VidyaGaming.BL.Contracts/1.0.0": {
+        "dependencies": {
+          "VidyaGaming.DAL": "1.0.0"
+        },
+        "runtime": {
+          "VidyaGaming.BL.Contracts.dll": {}
+        }
+      },
+      "VidyaGaming.DAL/1.0.0": {
+        "runtime": {
+          "VidyaGaming.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VidyaGaming.BL.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VidyaGaming.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,7 +6,7 @@ namespace VidyaGaming.BL.Contracts
     {
         public List<Game> GetAll();
 
-        public Game GetByName(string name);
+        public List<Game> GetByName(string name);
 
         public List<Game> GetByDescendingGrade();
 
@@ -18,5 +18,7 @@ namespace VidyaGaming.BL.Contracts
         public List<Game> GetByDate(DateOnly date);
 
         public List<Game> GetByPlatform(string platform);
+
+       
     }
 }

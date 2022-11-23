@@ -1,0 +1,17 @@
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.csproj.AssemblyReference.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.AssemblyInfoInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.AssemblyInfo.cs
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.csproj.CoreCompileInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.BL.deps.json
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.BL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.BL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.BL.Contracts.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.BL.Contracts.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\bin\Debug\net6.0\VidyaGaming.DAL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.csproj.CopyComplete
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\refint\VidyaGaming.BL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\VidyaGaming.BL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL\obj\Debug\net6.0\ref\VidyaGaming.BL.dll

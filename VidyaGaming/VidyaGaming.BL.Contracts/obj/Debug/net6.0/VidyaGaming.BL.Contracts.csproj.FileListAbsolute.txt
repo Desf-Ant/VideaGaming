@@ -1,0 +1,15 @@
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\bin\Debug\net6.0\VidyaGaming.BL.Contracts.deps.json
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\bin\Debug\net6.0\VidyaGaming.BL.Contracts.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\bin\Debug\net6.0\VidyaGaming.BL.Contracts.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\bin\Debug\net6.0\VidyaGaming.DAL.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\bin\Debug\net6.0\VidyaGaming.DAL.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.csproj.AssemblyReference.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.AssemblyInfoInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.AssemblyInfo.cs
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.csproj.CopyComplete
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\refint\VidyaGaming.BL.Contracts.dll
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\VidyaGaming.BL.Contracts.pdb
+C:\Users\PC d'Adrien\Documents\ESEO\I3\projet\VidyaGaming\VidyaGaming\VidyaGaming.BL.Contracts\obj\Debug\net6.0\ref\VidyaGaming.BL.Contracts.dll
