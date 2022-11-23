@@ -56,7 +56,8 @@ namespace VidyaGaming.BL
 
         public List<Game> GetByAscendingGrade()
         {
-            throw new NotImplementedException();
+            return this.GetAll().OrderBy(a => a.AverageGrade).ToList();
+            
         }
 
         public List<Game> GetByDate(DateOnly date)
@@ -68,7 +69,8 @@ namespace VidyaGaming.BL
 
         public List<Game> GetByDescendingGrade()
         {
-            throw new NotImplementedException();
+            return this.GetAll().OrderByDescending(a => a.AverageGrade).ToList();
+            
         }
 
         public List<Game> GetByGrade(float grade)

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VidyaGaming.BL.Contracts\VidyaGaming.BL.Contracts.csproj" />
+    <ProjectReference Include="..\VidyaGaming.BL\VidyaGaming.BL.csproj" />
   </ItemGroup>
 
 </Project>

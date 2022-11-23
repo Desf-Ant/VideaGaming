@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "VidyaGaming.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VidyaGaming.BL.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VidyaGaming.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VidyaGaming.BL.dll": {}
+        }
+      },
       "VidyaGaming.BL.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -28,6 +41,11 @@
     }
   },
   "libraries": {
+    "VidyaGaming.BL/1.0.0": {
+      "type": "project",
+      "path": "../VidyaGaming.BL/VidyaGaming.BL.csproj",
+      "msbuildProject": "../VidyaGaming.BL/VidyaGaming.BL.csproj"
+    },
     "VidyaGaming.BL.Contracts/1.0.0": {
       "type": "project",
       "path": "../VidyaGaming.BL.Contracts/VidyaGaming.BL.Contracts.csproj",
@@ -41,6 +59,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "VidyaGaming.BL >= 1.0.0",
       "VidyaGaming.BL.Contracts >= 1.0.0"
     ]
   },
@@ -73,6 +92,9 @@
           "projectReferences": {
             "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL.Contracts\\VidyaGaming.BL.Contracts.csproj": {
               "projectPath": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL.Contracts\\VidyaGaming.BL.Contracts.csproj"
+            },
+            "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL\\VidyaGaming.BL.csproj": {
+              "projectPath": "C:\\Users\\PC d'Adrien\\Documents\\ESEO\\I3\\projet\\VidyaGaming\\VidyaGaming\\VidyaGaming.BL\\VidyaGaming.BL.csproj"
             }
           }
         }
